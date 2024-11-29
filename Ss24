@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Déploiement initial"
+git branch -M main
+git remote add origin https://github.com/USERNAME/NOM_DU_DEPOT.git
+git push -u origin main
